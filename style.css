@@ -1,0 +1,9 @@
+.loga{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+.body{
+    display: flex;
+    background-color: rgb(73, 77, 102);
+}
